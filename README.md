@@ -1,6 +1,9 @@
 LEDee is a friend.
 ====================
 
+*Start having fun right now and fork LEDee.*
+
+
 ###Why?
 
 I work by myself most of the time. My child and I are allergic to common
@@ -14,7 +17,7 @@ This one is for you saviourofthelostcode.
 
 ###What is LEDee?
 
-LEEdee is a robotic friend. Right now, all it can do is blink an LED.
+LEDee is a robotic friend. Right now, all it can do is blink an LED.
 In future versions, he will be equipped with all (a lot!) of the sensors
 I've managed to collect along the years of building robots and hacking hardware.
 
@@ -34,7 +37,7 @@ If you build a LEDee, email me (orangethirty@nuuton.com) and tell me about it.
 I'd be happy to talk hacking with you.
 
 
-###How does LEEDee work?
+###How does LEDee work?
 
 Current version (V0.1) uses one red LED.
 It has two modes of operation. It is either *up* or *sleeping*.
