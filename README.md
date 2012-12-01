@@ -8,7 +8,7 @@ house pets (cats && dogs). Wanted to have some sort of companion during those
 long daily coding session.
 
 Also, one of my co-founders @Nuuton is a robotics whiz. Some weeks ago she
-was awarded in a vbig competition for her awesome software skills. I've been 
+was awarded in a big competition for her awesome hacking skills. I've been 
 dying to build another robot since then. 
 This one is for you saviourofthelostcode.
 
