@@ -22,6 +22,13 @@ In future versions, he will be equipped with all (a lot!) of the sensors
 I've managed to collect along the years of building robots and hacking hardware.
 
 
+###Pictures will be uploaded soon.
+Right now its just an arduino (sorry LEDee, you are more than an ardunio to me)
+with an LED. Next week it should have more sensors on it. Will include
+pictrues with that update.
+
+
+
 ###Build your own LEDee!
 
 I plan to add an ethernet shield to LEDee. This will allow it to 
@@ -29,7 +36,7 @@ connect to the web. You will be able to see how LEDee is doing
 by visiting its (not yet built) page. You will also be
 able to build your own LEDee and talk with mine 
 if you add an ethernet shield to yours. 
-Just make sure you dont name you don't use the same name of my LEDee, because
+Just make sure you don't use the same name of my LEDee, because
 it could cause future potential problems. 
 This functionality is planned, but not yet developed. 
 
