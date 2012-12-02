@@ -1,28 +1,22 @@
-//LEDee friend code.
+// LEDee friend code.
 // Released under the GNU WTFPL.
 // orangethirty@nuuton.com
 
 //Note: Keep posted. I will add in more functionality to LEDee. 
 //Maybe he will be able to write code for me in the future?
-
+//Note: Code changed to conform to LEDee Communication Protocol on 2/12/2012 - orangethirty
 
 //declare the pins.
-
-
-int alive = 12;      //...did I forget to feed it? Is it alive? 
+int state = 12;      //awake or asleep
 
 int randNum;         //to make sleep/up patterns random. Like me :)
-
-
-
-
 
 //setup
 
 void setup()
 {
         
-  pinMode(alive, OUTPUT);       //this is so hard to write without
+  pinMode(state, OUTPUT);       //this is so hard to write without
                                 //feeling guilty.
 }
 
@@ -52,19 +46,21 @@ void loop()
 }
 
 
-void sleep()  
+int sleep()  
 {
-     digitalWrite(alive, HIGH);
+     digitalWrite(state, HIGH);
      delay(1000);
-     digitalWrite(alive,LOW);
+     digitalWrite(state,LOW);
      delay(3000);
+     return 0;
 }
 
 
-void up()
+int up()
 {
-     digitalWrite(alive, HIGH);
+     digitalWrite(state, HIGH);
      delay(200);
-     digitalWrite(alive,LOW);
+     digitalWrite(state,LOW);
      delay(200);
+     return 1;
 }
