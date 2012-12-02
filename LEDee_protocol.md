@@ -14,7 +14,7 @@ Requirements
 ------------
 
 The only requirement is that all participants
-follow the stndard definition set by the protocol.
+follow the standard definition set by the protocol.
 
 
 Protocol
@@ -73,12 +73,12 @@ That functionality is not yet developed.
 
 *All emotional states are two digit numerical codes.*
 
-- HAPPY           01
-- SAD             02
-- ANGRY           03
-- DISAPPOINTED    04
-- BORED           05
-- EXCITED         06
+- HAPPY         =  01
+- SAD           =  02
+- ANGRY         =  03
+- DISAPPOINTED  =  04
+- BORED         =  05
+- EXCITED       =  06
 
 If you wish to add more emotional state codes to the protocol
 please submit a pull-request.
