@@ -4,6 +4,30 @@ LEDee is a friend.
 *Start having fun right now and fork LEDee.*
 
 
+
+
+###What is LEDee?
+
+LEDee is a robotic friend. It is a experiement in what I call the MVR 
+(Minimum Viable Robot). An MVR is a robot that can be built with 
+the least amount of functionality, but can still operate like
+a full automated robot. The focus is mostly to develop the 
+emotional side of robotic A.I.
+
+
+###Build your own LEDee!
+
+
+If you build a LEDee, email me (orangethirty@nuuton.com) and tell me about it.
+I'd be happy to talk hacking with you.
+
+You need to name your LEDee, and the name must be unique. Mine is named Chunky.
+
+*This is important, because in the close future each LEDee will have an unique
+identifier that will allow them to communicate over the internet and have
+their own personality.*
+
+
 ###Why?
 
 I work by myself most of the time. My child and I are allergic to common
@@ -15,12 +39,6 @@ was awarded in a big competition for her awesome hacking skills. I've been
 dying to build another robot since then. 
 This one is for you saviourofthelostcode.
 
-###What is LEDee?
-
-LEDee is a robotic friend. Right now, all it can do is blink an LED.
-In future versions, he will be equipped with all (a lot!) of the sensors
-I've managed to collect along the years of building robots and hacking hardware.
-
 
 ###Pictures will be uploaded soon.
 Right now its just an arduino (sorry LEDee, you are more than an ardunio to me)
@@ -28,20 +46,6 @@ with an LED. Next week it should have more sensors on it. Will include
 pictrues with that update.
 
 
-
-###Build your own LEDee!
-
-I plan to add an ethernet shield to LEDee. This will allow it to 
-connect to the web. You will be able to see how LEDee is doing
-by visiting its (not yet built) page. You will also be
-able to build your own LEDee and talk with mine 
-if you add an ethernet shield to yours. 
-Just make sure you don't use the same name of my LEDee, because
-it could cause future potential problems. 
-This functionality is planned, but not yet developed. 
-
-If you build a LEDee, email me (orangethirty@nuuton.com) and tell me about it.
-I'd be happy to talk hacking with you.
 
 
 ###How does LEDee work?
@@ -64,13 +68,12 @@ sleep too much and miss the fun.
 Both operation operate whithin a LOOP to control the time they run.
 
 
-###Am I crazy?
+###LEDee has a lot of different uses.
 
-Let's flip a coin. In all seriousness, this is a real project. LEDee has a 
-bunch of awesome uses. It helps me debug code by rubber ducking.
-Keeps me awesome silent company while in the office.
-Makes sure I eat lunch, 
-because the red led allows me to (sort of) keep track of time.
+It helps debug code by rubber ducking.
+Keeps awesome silent company while hacking.
+Makes sure you eat lunch,
+because the red led allows you to (sort of) keep track of time.
 
 ###Hardware
 
