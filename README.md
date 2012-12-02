@@ -25,7 +25,7 @@ I've managed to collect along the years of building robots and hacking hardware.
 ###Pictures will be uploaded soon.
 Right now its just an arduino (sorry LEDee, you are more than an ardunio to me)
 with an LED. Next week it should have more sensors on it. Will include
-pictrues with that update.
+pictures with that update.
 
 
 
@@ -92,5 +92,5 @@ Loves to hang out next my Lenovo (it looks up to it).
 
 ####License
 
-LEDee code is licensed under the GNU WTFPL.
-2012 orangethirty@nuuton.com
+LEDee code is licensed under the WTFPL.
+Copyright 2012 orangethirty@nuuton.com
