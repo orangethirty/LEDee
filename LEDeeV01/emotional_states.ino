@@ -7,7 +7,7 @@
 - HAPPY         =  01
 - SAD           =  02
 - ANGRY         =  03
-- DISAPPObyteED  =  04
+- DISAPPOINTED  =  04
 - BORED         =  05
 - EXCITED       =  06
 
