@@ -61,7 +61,7 @@ byte emotional_state; // holds the code for the emotional state
 
 byte get_emotional_state()
 {
-    return emotional state;
+    return emotional_state;
 }
 
 void set_emotion_state(byte state)
